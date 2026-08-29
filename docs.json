@@ -20,6 +20,7 @@
       {
         "group": "Articles",
         "pages": [
+          "articles/2026-08-29-a-first-week-setup-guide-for-a-link-building-tool-for-freelancers",
           "articles/2026-08-28-how-to-set-the-right-link-volume-with-bulk-link-publishing-software",
           "articles/2026-08-28-how-to-choose-the-right-volume-in-bulk-link-publishing-software",
           "articles/2026-08-27-how-a-saas-link-building-platform-can-scale-without-uncapped-spam",
@@ -78,8 +79,7 @@
           "articles/2026-08-06-recurring-payments-wordpress-a-practical-woocommerce-setup-playbook",
           "articles/2026-08-06-how-to-use-ai-link-building-software-for-a-repeatable-seo-backlink-workflow",
           "articles/2026-08-06-how-automated-seo-backlinks-and-indexnow-can-shorten-discovery-time",
-          "articles/2026-08-06-ai-link-building-software-a-practical-playbook-for-scalable-seo-backlinks",
-          "articles/2026-08-06-a-practical-playbook-for-setting-up-recurring-payments-in-wordpress-with-woocomm"
+          "articles/2026-08-06-ai-link-building-software-a-practical-playbook-for-scalable-seo-backlinks"
         ]
       }
     ],
