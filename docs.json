@@ -20,6 +20,7 @@
       {
         "group": "Articles",
         "pages": [
+          "articles/2026-11-02-a-same-day-launch-playbook-built-around-instant-virtual-card-issuance",
           "articles/2026-11-02-how-off-page-seo-automation-scales-placements-without-twenty-dashboards",
           "articles/2026-11-02-how-to-manage-risk-when-using-no-kyc-virtual-credit-cards",
           "articles/2026-11-01-how-seo-backlink-reporting-software-turns-csv-data-into-client-ready-reports",
@@ -78,8 +79,7 @@
           "articles/2026-10-17-how-to-recover-after-a-google-ads-vcc-suspension-without-repeating-it",
           "articles/2026-10-17-how-to-use-an-automated-backlink-placer-with-quality-gates-for-english-first-hos",
           "articles/2026-10-17-how-to-handle-rejected-billing-methods-with-virtual-cards-for-facebook-ads",
-          "articles/2026-10-17-how-to-build-a-resilient-buffer-with-bulk-link-publishing-software",
-          "articles/2026-10-16-a-practical-virtual-card-decline-fix-retry-logic-and-fallback-sequencing"
+          "articles/2026-10-17-how-to-build-a-resilient-buffer-with-bulk-link-publishing-software"
         ]
       }
     ],
