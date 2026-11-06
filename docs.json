@@ -20,6 +20,7 @@
       {
         "group": "Articles",
         "pages": [
+          "articles/2026-11-06-how-to-run-a-windows-link-building-app-without-losing-billing-control",
           "articles/2026-11-06-how-to-isolate-tool-stack-risk-with-a-saas-payment-virtual-card",
           "articles/2026-11-06-how-a-saas-link-building-platform-can-keep-license-gated-quotas-honest",
           "articles/2026-11-06-how-to-make-virtual-card-recurring-payments-safer-without-missed-renewals",
@@ -78,8 +79,7 @@
           "articles/2026-10-22-how-to-use-ad-spend-cards-to-structure-creative-tests-safely",
           "articles/2026-10-22-how-to-choose-seo-link-building-software-from-trial-to-unlimited",
           "articles/2026-10-21-how-a-virtual-card-for-subscriptions-makes-inactive-renewals-easier-to-audit",
-          "articles/2026-10-21-how-to-manage-replacement-credits-in-automated-link-building-software-paid-plans",
-          "articles/2026-10-21-how-a-saas-payment-virtual-card-can-prevent-tool-stack-bloat"
+          "articles/2026-10-21-how-to-manage-replacement-credits-in-automated-link-building-software-paid-plans"
         ]
       }
     ],
