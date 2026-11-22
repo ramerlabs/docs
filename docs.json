@@ -20,6 +20,7 @@
       {
         "group": "Articles",
         "pages": [
+          "articles/2026-11-22-how-to-use-white-label-link-building-software-with-crm-and-n8n",
           "articles/2026-11-22-how-to-build-a-reloadable-vcc-sop-that-keeps-online-spend-under-control",
           "articles/2026-11-21-how-link-building-software-for-agencies-keeps-multi-project-work-organized",
           "articles/2026-11-21-how-a-virtual-card-for-media-buyers-helps-you-scale-from-freelancer-to-team",
@@ -78,8 +79,7 @@
           "articles/2026-11-08-a-practical-link-building-tool-for-freelancers-playbook-for-solo-operators",
           "articles/2026-11-08-how-to-use-google-ads-vcc-without-triggering-cascading-payment-failures",
           "articles/2026-11-07-how-an-automated-backlink-placer-scales-safely-with-controlled-fan-out",
-          "articles/2026-11-07-how-to-separate-testing-and-scale-budgets-with-ad-spend-cards",
-          "articles/2026-11-07-how-to-choose-links-wanted-in-bulk-link-publishing-software-without-checkbox-cha"
+          "articles/2026-11-07-how-to-separate-testing-and-scale-budgets-with-ad-spend-cards"
         ]
       }
     ],
